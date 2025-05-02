@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello,%20I'm%20[Your%20Name]&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="Hello, I'm [Morine Achieng]" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello,%20I'm%20Morine%20Achieng&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="Hello, I'm Morine Achieng" />
 </p>
 
 <!-- About Me Section -->
@@ -31,7 +31,7 @@ I thrive on automating workflows, optimizing CI/CD pipelines, and delivering sea
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maureen363&show_icons=true&theme=radical)
 
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maureen363&layout=compact&theme=radical)
-
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=6&theme=radical&hide=makefile)
 <!-- Contact Section -->
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/morine-achieng-706932258/)
