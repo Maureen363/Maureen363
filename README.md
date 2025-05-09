@@ -1,44 +1,54 @@
-<!-- Header Section -->
+<h1 align="center">Hi 👋, I'm Morine Achieng </h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello,%20I'm%20Morine%20Achieng&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="Hello, I'm Morine Achieng" />
+  <i>Software Engineer | Problem Solver | Lifelong Learner</i>
 </p>
 
-<!-- About Me Section -->
-## 👨‍💻 About Me
-I'm a passionate DevOps Engineer with a strong frontend development background. I specialize in:
+---
 
-- **Frontend Technologies**: HTML, React, Vue, JavaScript, Tailwind CSS
-- **Backend & DevOps Tools**: Python, Docker
-- **Cloud Platforms**: AWS, Azure
+🌍 **About Me**  
+I am a learner of the ALX ProDev Frontend Programme and I’m currently on a mission to complete the programme to stand out in my job search and future career.
 
-I thrive on automating workflows, optimizing CI/CD pipelines, and delivering seamless user experiences.
+💡 I chose software engineering because I love solving real-world problems through code.
 
-<!-- Tech Stack Section -->
-## 🛠️ Tech Stack
+🔥 I’m passionate about open source, building useful tools, developing scalable apps, AI and automation and I’m constantly inspired by tech communities, innovators like Elon Musk and impact-driven projects.
+
+🎯 **My Vision**  
+My goal is to "build software that creates impact", "contribute to global open-source projects", "work on products that reach millions".
+
+💻 That’s why I want to work on projects involving "web apps", "system design", "machine learning", "API development", "automation tools.
+
+---
+
+🚀 **Current Focus**
+- 🌱 I’m currently learning: `C`, `Python`, `Bash`, `Git`, and `Linux`
+- 🔭 I’m working on: ALX projects and personal portfolio
+- 📫 How to reach me: morineachi00@gmail.com | https://www.linkedin.com/in/morine-achieng-706932258/.
+
+---
+
+🛠️ **Languages & Tools**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+📈 **GitHub Stats**
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maureen363&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maureen363&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- GitHub Stats Section -->
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maureen363&show_icons=true&theme=radical)
+---
 
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maureen363&layout=compact&theme=radical)
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=6&theme=radical&hide=makefile)
-<!-- Contact Section -->
-## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/morine-achieng-706932258/)
-- [Twitter](https://x.com/achibeby)
-  
+🤝 **Let’s Connect**
+- 💼 [LinkedIn]https://www.linkedin.com/in/morine-achieng-706932258/.
+- 💬 Always open to collaboration and new opportunities!
 
-<!-- Footer Section -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Let's%20Build%20Something%20Great%20Together!&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="Let's Build Something Great Together!" />
-</p>
+---
